@@ -8,3 +8,5 @@ Task-4: Website scraped for info on doctors in Saudi Arabia: https://www.topdoct
 
 Task-5: For information on pharmacies, drugstores and chemists in Chandigarh: https://www.medicineindia.org/pharmacies-chemists-drugstores-in-city/190/chandigarh
         In Bhopal: https://www.medicineindia.org/pharmacies-chemists-drugstores-in-city/81/bhopal
+        
+Task-5: Information on hospitals with chest and pulmonary specialty: https://www.indiahealthcare.org/?speciality=Chest%20%26%20Pulmonary
