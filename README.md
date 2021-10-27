@@ -10,3 +10,5 @@ Task-5: For information on pharmacies, drugstores and chemists in Chandigarh: ht
         In Bhopal: https://www.medicineindia.org/pharmacies-chemists-drugstores-in-city/81/bhopal
         
 Task-5: Information on hospitals with chest and pulmonary specialty: https://www.indiahealthcare.org/?speciality=Chest%20%26%20Pulmonary
+
+Task-6: Finding the common drugs among the scraped data of three healthcare websites: one-mg, netmeds and pharmeasy.
