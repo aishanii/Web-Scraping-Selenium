@@ -9,8 +9,8 @@ Task-4: Website scraped for info on doctors in Saudi Arabia: https://www.topdoct
 Task-5: For information on pharmacies, drugstores and chemists in Chandigarh: https://www.medicineindia.org/pharmacies-chemists-drugstores-in-city/190/chandigarh
         In Bhopal: https://www.medicineindia.org/pharmacies-chemists-drugstores-in-city/81/bhopal
         
-Task-5: Information on hospitals with chest and pulmonary specialty: https://www.indiahealthcare.org/?speciality=Chest%20%26%20Pulmonary
+Task-6: Information on hospitals with chest and pulmonary specialty: https://www.indiahealthcare.org/?speciality=Chest%20%26%20Pulmonary
 
-Task-6: Finding the common drugs among the scraped data of three healthcare websites: one-mg, netmeds and pharmeasy.
+Task-7: Finding the common drugs among the scraped data of three healthcare websites: one-mg, netmeds and pharmeasy.
 
-Task-7: Getting information about all the drugs from letters S-Z on the Healthgrades website. https://www.healthgrades.com/drugs/fda/a-z
+Task-8: Getting information about all the drugs from letters S-Z on the Healthgrades website. https://www.healthgrades.com/drugs/fda/a-z
