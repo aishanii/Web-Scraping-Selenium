@@ -14,3 +14,5 @@ Task-6: Information on hospitals with chest and pulmonary specialty: https://www
 Task-7: Finding the common drugs among the scraped data of three healthcare websites: one-mg, netmeds and pharmeasy.
 
 Task-8: Getting information about all the drugs from letters S-Z on the Healthgrades website. https://www.healthgrades.com/drugs/fda/a-z
+
+Task-9: Getting the reviews of a doctor of a particular speciality in a particular city. 
